@@ -1,0 +1,14 @@
+C:\Users\Dallas\Desktop\VScode\Estudos\_C#\Portifolio\Snake_Simple\bin\Debug\net10.0\Snake_Simple.exe
+C:\Users\Dallas\Desktop\VScode\Estudos\_C#\Portifolio\Snake_Simple\bin\Debug\net10.0\Snake_Simple.deps.json
+C:\Users\Dallas\Desktop\VScode\Estudos\_C#\Portifolio\Snake_Simple\bin\Debug\net10.0\Snake_Simple.runtimeconfig.json
+C:\Users\Dallas\Desktop\VScode\Estudos\_C#\Portifolio\Snake_Simple\bin\Debug\net10.0\Snake_Simple.dll
+C:\Users\Dallas\Desktop\VScode\Estudos\_C#\Portifolio\Snake_Simple\bin\Debug\net10.0\Snake_Simple.pdb
+C:\Users\Dallas\Desktop\VScode\Estudos\_C#\Portifolio\Snake_Simple\obj\Debug\net10.0\Snake_Simple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dallas\Desktop\VScode\Estudos\_C#\Portifolio\Snake_Simple\obj\Debug\net10.0\Snake_Simple.AssemblyInfoInputs.cache
+C:\Users\Dallas\Desktop\VScode\Estudos\_C#\Portifolio\Snake_Simple\obj\Debug\net10.0\Snake_Simple.AssemblyInfo.cs
+C:\Users\Dallas\Desktop\VScode\Estudos\_C#\Portifolio\Snake_Simple\obj\Debug\net10.0\Snake_Simple.csproj.CoreCompileInputs.cache
+C:\Users\Dallas\Desktop\VScode\Estudos\_C#\Portifolio\Snake_Simple\obj\Debug\net10.0\Snake_Simple.dll
+C:\Users\Dallas\Desktop\VScode\Estudos\_C#\Portifolio\Snake_Simple\obj\Debug\net10.0\refint\Snake_Simple.dll
+C:\Users\Dallas\Desktop\VScode\Estudos\_C#\Portifolio\Snake_Simple\obj\Debug\net10.0\Snake_Simple.pdb
+C:\Users\Dallas\Desktop\VScode\Estudos\_C#\Portifolio\Snake_Simple\obj\Debug\net10.0\Snake_Simple.genruntimeconfig.cache
+C:\Users\Dallas\Desktop\VScode\Estudos\_C#\Portifolio\Snake_Simple\obj\Debug\net10.0\ref\Snake_Simple.dll
